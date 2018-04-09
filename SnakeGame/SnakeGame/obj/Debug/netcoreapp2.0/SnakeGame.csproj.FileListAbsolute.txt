@@ -1,0 +1,11 @@
+E:\C# SoftUni\SnakeGame\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.deps.json
+E:\C# SoftUni\SnakeGame\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.runtimeconfig.json
+E:\C# SoftUni\SnakeGame\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.runtimeconfig.dev.json
+E:\C# SoftUni\SnakeGame\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.dll
+E:\C# SoftUni\SnakeGame\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.pdb
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.csproj.CoreCompileInputs.cache
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.AssemblyInfoInputs.cache
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.AssemblyInfo.cs
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.dll
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.pdb
+E:\C# SoftUni\SnakeGame\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.csprojResolveAssemblyReference.cache
